@@ -9,7 +9,6 @@ B.S. Computer Science, Major in Software Tech @ [De La Salle University](http://
 
 ### Contacts 📬
 - Email : stephen_salamante@dlsu.edu.ph
-- Portfolio : https://okaystephen.github.io/
 - LinkedIn : http://linkedin.com/in/stephensalamante/
 
 <!--
