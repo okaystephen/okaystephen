@@ -1,6 +1,6 @@
 ### Hello, it's Stephen *️⃣
 
-B.S. Computer Science, Major in Software Tech @ [De La Salle University](http://dlsu.edu.ph/)
+B.S. Computer Science, Major in Software Tech. @ [De La Salle University](http://dlsu.edu.ph/)
 
 ### Affiliations 🫂
 - La Salle Computer Society
@@ -8,8 +8,9 @@ B.S. Computer Science, Major in Software Tech @ [De La Salle University](http://
 - Advanced Research Institute for Informatics, Computing, and Networking
 
 ### Contacts 📬
-- Email : stephen_salamante@dlsu.edu.ph
-- LinkedIn : http://linkedin.com/in/stephensalamante/
+- Email: stephen_salamante@dlsu.edu.ph
+- LinkedIn: https://linkedin.com/in/stephensalamante/
+- Portfolio: https://okaystephen.github.io
 
 <!--
 **okaystephen/okaystephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,5 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[de la salle university](http://dlsu.edu.ph/)
 -->
