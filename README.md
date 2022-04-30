@@ -8,7 +8,7 @@ B.S. Computer Science, Major in Software Tech. @ [De La Salle University](http:/
 - Advanced Research Institute for Informatics, Computing, and Networking (2021—)
 
 ### Contacts 📬
-- Email: mujisteph@icloud.com
+- Email: stephensalamante@icloud.com
 - LinkedIn: https://linkedin.com/in/stephensalamante/
 - Portfolio: https://okaystephen.github.io
 
