@@ -1,10 +1,10 @@
-### Hello, it's Stephen *️⃣
+## Hello, it's Stephen! *️⃣
 
 B.S. Computer Science, Major in Software Tech. @ [De La Salle University](http://dlsu.edu.ph/)
 
 ### Affiliations 🫂
 - La Salle Computer Society (2018—)
-- Developer Student Clubs Taft (2020—)
+- Google Developer Student Clubs De La Salle University (2020—)
 - Advanced Research Institute for Informatics, Computing, and Networking (2021—)
 
 ### Contacts 📬
