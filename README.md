@@ -6,7 +6,7 @@
 ### 🗺️ Experience
 - **Associate Software Development Engineer** — Navitaire (2023—)
 - **Associate Software Developer** — Navitaire (2022—2023)
-- **Project Management Intern** — Navitaire (2022)
+- **Product Management Intern** — Navitaire (2022)
 - **Research Assistant** — Advanced Research Institute for Informatics, Computing and Networking (2021—2022)
 
 ### 🔭 Certifications 
